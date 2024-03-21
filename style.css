@@ -1,0 +1,51 @@
+*{
+    background-color:rgb(244, 224, 224);
+    box-sizing: border-box;
+}
+.leftcoloum{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+.rightcoloum{
+    float: left;
+    width: 50%;
+    padding: 10px;
+    height: 300px;
+}
+h1{
+    color: blue;
+}
+h2{
+    color: blue;
+}
+
+/*
+For Practing only
+.Header h1{
+    color: blue;
+}
+.Education h2{
+    color: blue;
+}
+.Experience h2{
+    color: blue;
+}
+.Course h2{
+    color: blue;
+}
+.Project h2{
+    color: blue;
+}
+.Skills h2{
+    color: blue;
+}
+.Achievements h2{
+    color: blue;
+}
+.Certificates h2{
+    color: blue;
+}
+*/
+
